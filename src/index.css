@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+* {
+  border-color: hsl(214.3 31.8% 91.4%);
+}
+
+body {
+  background-color: white;
+  color: hsl(222.2 84% 4.9%);
+  font-feature-settings: "rlig" 1, "calt" 1;
+}
